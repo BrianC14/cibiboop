@@ -1,0 +1,47 @@
+.navbar {
+    margin-bottom: 50px;
+}
+
+.frm1 {
+    display: block;
+    margin: 0 250px 0 250px;
+    padding: 30px;
+    text-align: center;
+    background-color: #eee;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+}
+
+.frm1 .form-group {
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.socialSignIn {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.socialSignIn small {
+    margin-bottom: 10px;
+}
+
+.socialSignIn a {
+    margin: 10px;
+}
+
+.socialSignIn img {
+    width: 40px;
+    height: 40px;
+    transition: all .35s ease-in-out;
+}
+
+.socialSignIn img:hover {
+    width: 35px;
+    height: 35px;
+}
